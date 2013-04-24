@@ -17,29 +17,21 @@ Dependencies
 
 - boost.random from http://www.boost.org/
 
+MS Visual Studio C++ 2010
 
-Compile
--------
+Import project directly from MS Visual Studio C++ 2010 or double click RandomKeyGenerator.sln tou launch MS Visual Studio C++.
+
+MSBuild
 
 To compile using msbuild use this command
 ```
-	c:\> msbuild /property:Configuration=Release <this_directory>/RandomKeyGenerator.sln
+	c:\> msbuild /property:Configuration=Release <project_directory>/RandomKeyGenerator.sln
 ```
-or import directly to MS Visual Studio 2010
-
 
 Deployment
 ----------
 
-This application need MS Visual C++ Runtime. Folder structure and files like below
-
-NeverFear +
-		  - NeverFear.exe
-		  - NF.dll
-		  - msvcp100.dll
-		  - msvcr100.dll
-		  - readme.txt
-		  - license.txt
+This application need MS Visual C++ Runtime. 
 
 Easy compilation and packaging by run the build batch file
 ```
