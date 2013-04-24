@@ -11,3 +11,5 @@ Release
 deploy
 *.vcxproj.user
 *.zip
+*.aps
+*.APS
