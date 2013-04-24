@@ -45,6 +45,6 @@ Run RKG.exe and generated key automatically copied to clipboard and file passwor
 
 Screenshot
 
-[[/random-key-generator-win/Screenshot/rkg.jpg]]
+![rkg-screenshot](junwatu.github.com/random-key-generator-win/Screenshot/rkg.jpg)
 
 
