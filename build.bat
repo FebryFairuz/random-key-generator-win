@@ -1,3 +1,5 @@
+set APP_VERSION=1.0
+
 @ECHO OFF
 ECHO "====================="
 ECHO "Build with MSBuild..."
@@ -10,7 +12,7 @@ ECHO "====================="
 ECHO "Release Binary..."
 ECHO "====================="
 
-SET OUTPUT_RKG_DIR=random-keygen-win32
+SET OUTPUT_RKG_DIR=randomkeygen-win32-x86-%APP_VERSION%
 SET DEPLOY_FILE=%OUTPUT_RKG_DIR%.zip
 
 mkdir %OUTPUT_RKG_DIR%
