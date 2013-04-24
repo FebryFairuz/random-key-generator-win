@@ -1,5 +1,5 @@
 /**
-*  Never Fear DLL
+*  RKG DLL
 *  Equan Pr.
 *  (c) 2013  
 */

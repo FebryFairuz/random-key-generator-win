@@ -1,5 +1,5 @@
 /**
-* NeverFear 1.0
+* RKG 1.0
 * Equan Pr.
 * (c) 2013
 */

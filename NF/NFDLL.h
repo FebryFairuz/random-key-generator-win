@@ -1,5 +1,5 @@
 /**
-*  Never Fear DLL Header File
+*  RKG DLL Header File
 *  Equan Pr.
 *  (c) 2013
 */
