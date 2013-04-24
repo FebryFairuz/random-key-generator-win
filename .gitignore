@@ -1,0 +1,13 @@
+ipch
+Debug
+Release
+/ass/Debug
+/ass/Release
+/NF/Debug
+/NF/Release
+*.opensdf
+*.sdf
+*.suo
+deploy
+*.vcxproj.user
+*.zip
