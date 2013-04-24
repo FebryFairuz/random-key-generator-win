@@ -38,4 +38,13 @@ Easy compilation and packaging by run the build batch file
 	build.bat
 ```
 
+Usage
+-----
+
+Run RKG.exe and generated key automatically copied to clipboard and file password.txt
+
+Screenshot
+
+[[/random-key-generator-win/Screenshot/rkg.jpg]]
+
 
