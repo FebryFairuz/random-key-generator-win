@@ -13,3 +13,4 @@ deploy
 *.zip
 *.aps
 *.APS
+Thumbs.db
