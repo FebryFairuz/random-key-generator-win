@@ -41,7 +41,7 @@ Easy compilation and packaging by run the build batch file
 Usage
 -----
 
-Run RKG.exe and generated key automatically copied to clipboard and file password.txt
+Run RKG.exe and generated key automatically copied to clipboard and file "key.txt".
 
 Screenshot
 
