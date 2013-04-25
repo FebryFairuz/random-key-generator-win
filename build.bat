@@ -12,7 +12,7 @@ ECHO "====================="
 ECHO "Release Binary..."
 ECHO "====================="
 
-SET OUTPUT_RKG_DIR=randomkeygen-win32-x86-%APP_VERSION%
+SET OUTPUT_RKG_DIR=randomkeygen-win32-x86-%APP_VERSION%-bin
 SET DEPLOY_FILE=%OUTPUT_RKG_DIR%.zip
 
 mkdir %OUTPUT_RKG_DIR%

@@ -10,8 +10,7 @@ Release
 *.suo
 deploy
 *.vcxproj.user
-*.zip
 *.aps
 *.APS
 Thumbs.db
-randomkeygen-win32-x86-*
+randomkeygen-win32-x86-*-bin
