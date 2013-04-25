@@ -30,7 +30,7 @@ NFDLL::NFDLL(){
 }
 
 void NFDLL::info(){
-	cout << "Random Password Generator" << endl;
+	cout << "Random Key Generator" << endl;
 	cout << "=========================" << endl;
 	cout << "2013 (c) By Equan Pr." << endl;
 	cout << endl;
@@ -59,7 +59,7 @@ void NFDLL::saveToClipboard(string data){
 		SetClipboardData(CF_TEXT, hmem);
 		CloseClipboard();
 		cout << endl;
-		cout << "Password saved to clipboard...OK" << endl;
+		cout << "Key saved to clipboard...OK" << endl;
 	}
 }
 
@@ -67,7 +67,7 @@ void NFDLL::saveToFile(string data, string filename) {
 	string filen;
 
 	if(filename.empty()){
-		filen = "password.txt";
+		filen = "key.txt";
 	}else {
 		filen = filename;
 	}
@@ -82,7 +82,7 @@ void NFDLL::saveToFile(string data, string filename) {
 		file << data;
 		file.close();
 		cout << endl;
-		cout << "Password saved to file " << filen << "...OK" << endl;
+		cout << "Key saved to file " << filen << "...OK" << endl;
 	}
 }
 

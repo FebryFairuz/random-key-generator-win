@@ -15,7 +15,7 @@ string pwd_str;
 int main(){	
 	NFDLL nfd;
 	nfd.info();
-	cout << "Generated Password :" << endl;
+	cout << "32 Char Generated Key :" << endl;
 	cout << endl;
 	cout << endl;
 
